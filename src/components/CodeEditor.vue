@@ -30,6 +30,8 @@ function generate() {
     height: auto;
     background-color: #0d1117;
     padding: 10px 0;
+    border-top: .5px solid #ecf2f860;
+    border-bottom: .5px solid #ecf2f860;
 }
 
 .button {
@@ -39,6 +41,7 @@ function generate() {
     border-left: 20px solid #77bdfb;
     border-bottom: 10px solid transparent;
     cursor: pointer;
-    margin-left: 25px;
+    margin-left: auto;
+    margin-right: 10px;
 }
 </style>
